@@ -2,7 +2,7 @@
 - 👀 I’m interested in SaaS, startups, web development, frontend / backend roles.
 - 🌱 I’m currently learning backend development on Golang and backend development patterns
 - ⚙️ Current tech stack includes: React, Javascript, C++, C, Nodejs, Postgre, NoSQL (MongoDB / Firestore), ORMs and more...
-- 📫 Email me or dm in Telegram: t.me/xaradam
+- 📫 Email me or dm in [Telegram](https://t.me/xaradam)
 
 <!---
 kappassov/kappassov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
